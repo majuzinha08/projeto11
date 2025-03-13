@@ -15,5 +15,19 @@ ul{
 a {
 color: white;
 text-decoration:none;
+  width: 150px;
+  height: 150px;
+  border-radius: 50%;
+  border: 5px salmon;
 
+}
+
+
+
+.center {
+   text-align: center;
+}
+
+h1 {
+    color: mintcream;
 }
